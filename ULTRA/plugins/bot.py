@@ -5,7 +5,7 @@
 
 import asyncio
 import os
-from ULTRAX import BOT, PHOTO, VERSION, MSG
+from AVENGERSBOT import BOT, PHOTO, VERSION, MSG
 import requests
 import time
 from PIL import Image
@@ -78,10 +78,10 @@ from ULTRA import bot
 async def repo(event):
     if event.fwd_from:
         return
-    ULTRAX = Var.TG_BOT_USER_NAME_BF_HER
+    AVENGERSBOT = Var.TG_BOT_USER_NAME_BF_HER
     if event.reply_to_msg_id:
         await event.get_reply_message()
-    response = await bot.inline_query(ULTRAX, "alive")
+    response = await bot.inline_query(AVENGERSBOT, "alive")
     await response[0].click(event.chat_id)
     await event.delete()
 from ULTRA.utils import admin_cmd

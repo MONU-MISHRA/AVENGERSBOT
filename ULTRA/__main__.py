@@ -6,7 +6,7 @@ except:
   from LEGENDX import id, ID, devs
 finally:
   print ("ULTRA X IS STARTING WITH TELETHON") 
-from ULTRAX import xbot
+from AVENGERSBOT import xbot
 from ULTRA import bot
 from sys import argv
 import sys
