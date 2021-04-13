@@ -7,7 +7,7 @@
 [![HitCount](http://hits.dwyl.com/ULTRA-OP/ULTRA-X.svg)](http://hits.dwyl.com/ULTRA-OP/ULTRA-X)
 
 
-# υℓтяα χ вσт
+# 𝑨𝑽𝑬𝑵𝑮𝑬𝑹𝑺- 𝑩𝑶𝑻
 This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official υℓтяα χ вσт made by [ Team Ultra](https://t.me/AVENGERSBOTOT) 
@@ -38,13 +38,8 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 ## Iɴsᴛᴀʟʟɪɴɢ
 
 # Cʀᴇᴅɪᴛs 📍
-## • LEGENDX  »»  <a href="https://github.com/LEGENDXOP" alt="LegendX"> <img src="https://img.shields.io/badge/LEGEND X-E5E4E2?logo=github" /></a>
-### • ULTRA X  »»  <a href="https://github.com/LEGENDXOP/LEGEND-BOT" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA-X-98AFC7?logo=github" /></a>
-### • PROBOYX  »»  <a href="https://github.com/PROBOYX" alt="ProBoy X"> <img src="https://img.shields.io/badge/PROBOY X-625D5D?logo=github" /></a>
-### • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a>
-### - MADBOY CHUTIA HE 😊 
-### • ALAIN    »»  <a href="https://github.com/infotechbro" alt="Alain"> <img src="https://img.shields.io/badge/ALAIN-95B9C7?logo=github" /></a>
-### • DEVIL    »»  <a href="https://github.com/lucifeermorningstar" alt="Devil"> <img src="https://img.shields.io/badge/DEVIL-82CAFA?logo=github" /></a>
+## • LEGENDX  »»  <a href="https://github.com/MONU-MISHRA" alt="MONU-MISHRA"> <img src="https://img.shields.io/badge/MONU-MISHRA-E5E4E2?logo=github" /></a>
+
 
 
 ### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
@@ -105,5 +100,5 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 ## Copyright (C) 2021 by Team Ultra for UltraX UserBot, < https://github.com/ULTRA-OP >.
 
 
-# ➥ ULTRA-X   »»  <a href="https://github.com/ULTRA-OP/ULTRA-X" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
-# ➥ ULTRA-OP  »»  <a href="https://github.com/ULTRA-OP" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
+# ➥ AVENGERSBOT  »»  <a href="https://github.comONU-MISHRA/AVENGERSBOT" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
+# ➥ MONU-MISHRA  »»  <a href="https://github.com/AVENGERSBOT" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
