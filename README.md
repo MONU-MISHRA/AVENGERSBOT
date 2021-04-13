@@ -14,7 +14,7 @@ This is the one and only official υℓтяα χ вσт made by [ Team Ultra](ht
 
 Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
 
-[![υℓтяα χ вσт ℓσgσ](https://telegra.ph/file/3319f8a33ea113509e179.jpg)](https://t.me/AVENGERSBOTOT)
+[![ AVENGERS вσт ℓσgσ](https://telegra.ph/file/83c063817adb2b60cc0be.jpg)](https://t.me/AVENGERSBOTOT)
 
 -------------------------------------------------
 
