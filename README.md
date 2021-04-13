@@ -86,5 +86,5 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 ## Copyright (C) 2021 by Team AVENGERS for AVENGERSBOT , < https://github.com/MONU-MISHRA>.
 
 
-# ➥ AVENGERSBOT  »»  <a href="https://github.comONU-MISHRA/AVENGERSBOT" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
-# ➥ MONU-MISHRA  »»  <a href="https://github.com/AVENGERSBOT" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
+# ➥ AVENGERSBOT  »»  <a href="https://github.comONU-MISHRA/AVENGERSBOT" alt="UltraX"> <img src="https://img.shields.io/badge/AVENGERSBOT-413839?logo=github" /></a>
+# ➥ MONU-MISHRA  »»  <a href="https://github.com/AVENGERSBOT" alt="Ultra-Op"> <img src="https://img.shields.io/badge/MONU-MISHRA-BCE954?logo=github" /></a>
